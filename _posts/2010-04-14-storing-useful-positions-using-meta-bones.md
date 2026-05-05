@@ -19,7 +19,7 @@ Some key uses of meta bones include:
 
 These objects are very easy to create in most packages, for example in 3ds max simply go to the create tab, then the helper tab and click the “Dummy” button and create the object in one of your viewports. You can accomplish the same in Maya by creating a locator, in Lightwave by creating a dummy and most other graphics packages use the term “null”.
 
-Now that you’ve created one of these object, you now need to encode information about its purpose and relevance, which can be parsed by your game. In this article I describe storing the data and identification by encoding it into the bone name, however in the “Taking it further” section I cover some options for extending the capabilities of this meta-data. Each object should have a name which can identify every piece of information it needs to communicate to the game, such as the type of meta-object it is and some related data. Also note that bone names must be unique, so you may need to include some sort of unique identification number. As an example, you could approach encoding a smoke emitter like so: `<type`>-`<subType`>-`<uniqueId`>-`<size`> such as “emitter-smoke-01-50”. Bear in mind that there will be a comparatively small limit on the length of the name.
+Now that you’ve created one of these object, you now need to encode information about its purpose and relevance, which can be parsed by your game. In this article I describe storing the data and identification by encoding it into the bone name, however in the “Taking it further” section I cover some options for extending the capabilities of this meta-data. Each object should have a name which can identify every piece of information it needs to communicate to the game, such as the type of meta-object it is and some related data. Also note that bone names must be unique, so you may need to include some sort of unique identification number. As an example, you could approach encoding a smoke emitter like so: `<type>-<subType>-<uniqueId>-<size>` such as `emitter-smoke-01-50`. Bear in mind that there will be a comparatively small limit on the length of the name.
 
 Also remember that it can get confusing having a lot of these objects in a scene, so confusing object a that does x with object b that does y is a problem. You may consider picking different colours for different types of objects.
 
@@ -53,7 +53,7 @@ Here any bones that begin with “myNamedTag” such as “myNamedTag01”, “m
 
 Encoding meta-data into the name of bones works fine for fairly simple implementations, however if an object has a lot of information attached to it this becomes less than ideal to encode everything into the contents of a small text box. You may consider encoding all this data into each object’s user defined properties (in 3ds max, other software will have equivalents.)
 
-In terms of displaying and loading user-defined-properties you can check out the creators club NormalMappingEffect sample (and I’m told the premium robot sample), while http://xnaengine.com/ and http://www.catalinzima.com/?page_id=66 appear to do something with 3ds max user-defined properties. There is also some discussion at:http://forums.xna.com/forums/t/13265.aspx?PageIndex=2
+In terms of displaying and loading user-defined-properties you can check out the creators club NormalMappingEffect sample (and I’m told the premium robot sample), while <http://xnaengine.com/> and <http://www.catalinzima.com/?page_id=66> appear to do something with 3ds max user-defined properties. There is also some discussion at: <http://forums.xna.com/forums/t/13265.aspx?PageIndex=2>
 
 You could also make a custom tool to achieve more customised functionality or extend your graphics package’s functionality by taking into account its support for plugins and scripting (if it has the support) and coding in what you need.
 
@@ -63,7 +63,7 @@ I hope this article has been informative. Criticism and comments are appreciated
 
 ## References
 
-http://www.gamedev.net/community/forums/topic.asp?topic_id=279475
-http://gamecareerguide.com/features/20010324/melax_03.htm
-http://www.3dcognition.com/theoryGameDev.php
-http://update.multiverse.net/wiki/index.php/Platform_Tutorial_Importing_Static_Models
+<http://www.gamedev.net/community/forums/topic.asp?topic_id=279475>
+<http://gamecareerguide.com/features/20010324/melax_03.htm>
+<http://www.3dcognition.com/theoryGameDev.php>
+<http://update.multiverse.net/wiki/index.php/Platform_Tutorial_Importing_Static_Models>
