@@ -1,3 +1,7 @@
+---
+tag: Reverse Engineering
+---
+
 # Core Concepts Of Reverse Engineering: Part 1 – Introduction
 
 **IMAGE MISSING**
