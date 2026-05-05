@@ -79,7 +79,7 @@ Intel Core i7
 NVIDIA GeForce GTX 260
 
 ## Links:
-[QuizQuizQuiz on Windows Phone 7](https://www.windowsphone.com/en-gb/store/app/quizquizquiz/17f2ce36-7ed5-df11-a844-00237de2db9e)
-[QuizQuizQuiz WP7 Trailer](https://www.youtube.com/watch?v=sfUwzRIT2Fc&noredirect=1)
-[Original iOS Game](https://itunes.apple.com/gb/app/quizquizquiz/id329015885?mt=8)
-[Four Door Lemon](http://www.fourdoorlemon.com/)
+- [QuizQuizQuiz on Windows Phone 7](https://www.windowsphone.com/en-gb/store/app/quizquizquiz/17f2ce36-7ed5-df11-a844-00237de2db9e)
+- [QuizQuizQuiz WP7 Trailer](https://www.youtube.com/watch?v=sfUwzRIT2Fc&noredirect=1)
+- [Original iOS Game](https://itunes.apple.com/gb/app/quizquizquiz/id329015885?mt=8)
+- [Four Door Lemon](http://www.fourdoorlemon.com/)
