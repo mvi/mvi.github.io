@@ -1,6 +1,6 @@
 # QuizQuizQuiz Windows Phone 7 Postmortem
 
-**IMAGE MISSING**
+![QuizQuizQuiz Screenshot](/Images/QuizQuizQuizWP7.png)
 
 ## Introduction
 Back in July, I got an email from Simon at Four Door Lemon confirming that I’d be working on porting QuizQuizQuiz, an established iPhone quiz game, to Windows Phone 7. At the time a platform that had yet to be finalised and released to consumers. The iPhone game features over 36,000 questions for a range of languages and locales. It supports both single player game modes and also multiplayer with up to 5 players, perhaps the strongest selling point of the game however is how it’s quiz engine has been built, catering the experience so that the user sees suitable difficulty questions and avoids repeating the same categories and questions. With Windows Phone 7 to be released within a few months, it seemed like a logical option to port QuizQuizQuiz to the platform and target the game as a launch title for WP7.
