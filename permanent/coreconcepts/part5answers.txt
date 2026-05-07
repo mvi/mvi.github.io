@@ -1,0 +1,6 @@
+Answers to Determining Data Values questions:
+
+Question 1: 82 
+Question 2: 2345
+Question 3: 456789
+Questini 4: 654321
