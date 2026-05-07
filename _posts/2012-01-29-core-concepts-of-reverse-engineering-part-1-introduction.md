@@ -4,8 +4,7 @@ tag: Reverse Engineering
 
 # Core Concepts Of Reverse Engineering: Part 1 – Introduction
 
-<img src="Images/ReverseEngineeringPart1Image1.png" style="float: right; margin: 5px 0 5px 20px;" />
-**IMAGE MISSING**
+<img src="/Images/ReverseEngineeringPart1Image1.png" style="float: right; margin: 5px 0 5px 20px; width: 300px;" />
 
 This is the first in a series of mini articles on reverse engineering binary files, particularly those in computer games but the majority of what I will discuss has applications in all areas of computer software. While I may touch on reverse engineering executable code, memory hacking and plain text formats, the majority of the focus is on actual binary files.
 
