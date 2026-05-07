@@ -9,7 +9,7 @@ Dolly zooming can be achieved by changing the field of view while changing the d
 
 Because of the non-linear relationship between the field of view and camera distance required to achieve this effect, it takes a good degree of experience and skill to do manually. In computer graphics, however we can use an equation to help us out. A common equation to achieve this effect is:
 
-**IMAGE MISSING**
+![distance = width / (2 tan (0.5 FoV))](/Images/DollyZoomingEquation.png)
 
 Now looking at the equation above, there are three variables. The field of view, which we can control and is therefore an input. The distance, which is calculated by the equation and is therefore the output. And finally, width which is a value relating to the target of our dolly zoom, this we will need to calculate ourselves. Fortunately this is straightforward as all we need do is multiply the target distance by the arctan of 90 degrees.
 
