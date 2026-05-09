@@ -3,8 +3,6 @@ title: Résumé
 permalink: /resume/
 ---
 
-# Résumé
-
 Technologist and creative leader, passionate about cutting edge technology and making impactful games. 
 
 - 17 years industry experience
@@ -18,15 +16,15 @@ Technologist and creative leader, passionate about cutting edge technology and m
 - Demonstrated ownership of architecture, toolchains and technical approach
 - Deep multidiscipline team understanding and track record with all departments
 
-Platforms: Quest 1/2/3, Vision Pro, Android XR, Pico, Rift, SteamVR, PSVR, Switch, Desktop, Mobile, Web
-Languages: C++, C#, Python, HLSL/GLSL/CG, JavaScript and many others
-Engines: UE4/5, Unity, proprietary engines
-Automation: TeamCity, Jenkins, GitHub Actions
-VCS: Perforce, Git, SVN, Bitbucket, GitHub, GitLab, Helix Swarm
-Other: NPM, Maven, MySQL, MongoDB, Redis, Couchbase, 010 Editor, IDA, Web Development
-Animation: Skeletal, Morphs, VAT, Facial Animation, Alembic, Ragdoll, Splines
-AI: Behavior Trees, EQS, StateTree, HSM, Squad Behaviours, Crowds, Navigation
-Physics: Chaos, PhysX, Box2D, SAT, CCD
-Graphics: GL ES, DX, Vulkan, Batching, HLODs, Occlusion, Shaders, Optimisation, Lightbaking
-Networking: P2P Realtime, Latency Mitigations, Async MP, Client/Server
-Tooling: Editor Widgets, Scripted Actions, Simplygon, Geometry Tools, Internal Servers
+Platforms: Quest 1/2/3, Vision Pro, Android XR, Pico, Rift, SteamVR, PSVR, Switch, Desktop, Mobile, Web  
+Languages: C++, C#, Python, HLSL/GLSL/CG, JavaScript and many others  
+Engines: UE4/5, Unity, proprietary engines  
+Automation: TeamCity, Jenkins, GitHub Actions  
+VCS: Perforce, Git, SVN, Bitbucket, GitHub, GitLab, Helix Swarm  
+Other: NPM, Maven, MySQL, MongoDB, Redis, Couchbase, 010 Editor, IDA, Web Development  
+Animation: Skeletal, Morphs, VAT, Facial Animation, Alembic, Ragdoll, Splines  
+AI: Behavior Trees, EQS, StateTree, HSM, Squad Behaviours, Crowds, Navigation  
+Physics: Chaos, PhysX, Box2D, SAT, CCD  
+Graphics: GL ES, DX, Vulkan, Batching, HLODs, Occlusion, Shaders, Optimisation, Lightbaking  
+Networking: P2P Realtime, Latency Mitigations, Async MP, Client/Server  
+Tooling: Editor Widgets, Scripted Actions, Simplygon, Geometry Tools, Internal Servers  
