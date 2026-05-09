@@ -15,7 +15,7 @@ Now looking at the equation above, there are three variables. The field of view,
 
 Assuming your camera view matrix is created using the standard Matrix.CreateLookAt() method, all you need adjust here is the camera eye position parameter. And assuming that the camera projection matrix is created using Matrix.CreatePerspectiveFieldOfView(), you can simply supply the field of view of the camera in radians.
 
-Now, probably what you’re most interested in, the [sample](https://mvi.sh/permanent/xnauk/dollyzoom/DollyZoomSample.zip).
+Now, probably what you’re most interested in, the [sample](https://mvinetwork.co.uk/permanent/xnauk/dollyzoom/DollyZoomSample.zip).
 
 Please note, this is the first time I have attempted to implement the effect so if the implementation can be improved I’d be delighted to hear how.
 

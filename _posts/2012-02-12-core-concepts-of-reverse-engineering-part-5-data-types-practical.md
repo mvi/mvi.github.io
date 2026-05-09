@@ -10,7 +10,7 @@ In the last article I talked about some theory of how data types are stored in b
 
 I’ve put together a small sample file for this article, before continuing you’ll need to download it and open it in XVI32.
 
-[Download here](https://mvi.sh/permanent/coreconcepts/part5.sample)
+[Download here](https://mvinetwork.co.uk/permanent/coreconcepts/part5.sample)
 
 <img src="/Images/ReverseEngineeringPart5Image1.png" />
 
@@ -39,7 +39,7 @@ If you struggle with question 3, remember that the conversion is the same as for
 
 ### Answers
 
-The answers can be found [here](https://mvi.sh/permanent/coreconcepts/part5answers.txt). If you didn’t get the same answer, check out the tips above.
+The answers can be found [here](https://mvinetwork.co.uk/permanent/coreconcepts/part5answers.txt). If you didn’t get the same answer, check out the tips above.
 
 ## Changing Data Values
 
@@ -58,6 +58,6 @@ If you struggle with any of these questions, the best idea is to reread the prev
 
 ### Answers
 
-The answers can be found [here](https://mvi.sh/permanent/coreconcepts/part5-answers.sample). Open this file in XVI32 to compare against your own edits.
+The answers can be found [here](https://mvinetwork.co.uk/permanent/coreconcepts/part5-answers.sample). Open this file in XVI32 to compare against your own edits.
 
 In this article you’ve determined the values of different data types and also changed those values. The skill you’ve just picked up means that you’re now able to hex edit a large range of data and files. Being able to determine the value of and edit data which occupies more than one byte is the most core practical skill in hex editing and reverse engineering binary files.

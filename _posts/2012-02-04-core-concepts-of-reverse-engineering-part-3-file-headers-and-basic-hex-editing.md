@@ -37,9 +37,9 @@ For a more extensive list of file signatures [check this page out](https://files
 
 Before continuing there are three examples you need to download, in the case of the images you will need to right click the link and hit “save as” or the equivalent option on your browser.
 
-- [Example 1](https://mvi.sh/permanent/coreconcepts/example1.png)
-- [Example 2](https://mvi.sh/permanent/coreconcepts/example2.zip)
-- [Example 3](https://mvi.sh/permanent/coreconcepts/example3.bmp)
+- [Example 1](https://mvinetwork.co.uk/permanent/coreconcepts/example1.png)
+- [Example 2](https://mvinetwork.co.uk/permanent/coreconcepts/example2.zip)
+- [Example 3](https://mvinetwork.co.uk/permanent/coreconcepts/example3.bmp)
 
 Now for each of the examples, I want you to open it up in XVI32 and have a look inside.
 
