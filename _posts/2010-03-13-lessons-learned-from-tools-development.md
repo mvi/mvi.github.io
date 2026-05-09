@@ -50,7 +50,7 @@ To sum up, planning and design with an iterative approach allows for speedy deve
 
 ## Further Reading
 
-Shawn Hargreaves on [Tool Postmortem: Climax Brighton’s Supertools](http://www.gamasutra.com/view/feature/2987/tool_postmortem_climax_brightons_.php)
-Noor Khawaja on [Making Your Game Tools Fast And Efficient](https://www.gamasutra.com/view/feature/3798/making_your_game_tools_fast_and_.php)
-Dan Goodman on [Game Tools Tune-Up: Optimize Your Pipeline Through Usability](http://www.gamasutra.com/view/feature/4016/game_tools_tuneup_optimize_your_.php)
-Adams Greenwood-Ericksen, Eric Preisz, Shawn Stafford on [Usability Breakthroughs: Four Techniques To Improve Your Game](https://www.gamasutra.com/view/feature/6130/usability_breakthroughs_four_.php)
+- Shawn Hargreaves on [Tool Postmortem: Climax Brighton’s Supertools](http://www.gamasutra.com/view/feature/2987/tool_postmortem_climax_brightons_.php)
+- Noor Khawaja on [Making Your Game Tools Fast And Efficient](https://www.gamasutra.com/view/feature/3798/making_your_game_tools_fast_and_.php)
+- Dan Goodman on [Game Tools Tune-Up: Optimize Your Pipeline Through Usability](http://www.gamasutra.com/view/feature/4016/game_tools_tuneup_optimize_your_.php)
+- Adams Greenwood-Ericksen, Eric Preisz, Shawn Stafford on [Usability Breakthroughs: Four Techniques To Improve Your Game](https://www.gamasutra.com/view/feature/6130/usability_breakthroughs_four_.php)
