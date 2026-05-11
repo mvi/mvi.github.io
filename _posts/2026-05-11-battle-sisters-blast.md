@@ -1,5 +1,7 @@
 # Battle Sister’s BLAST \- Creating a highly efficient render engine for Meta Quest
 
+<img src="/Images/BLAST/Image0-BattleSister.webp" />
+
 [Warhammer 40,000: Battle Sister](https://www.meta.com/en-gb/experiences/warhammer-40000-battle-sister/3231001163584154/) was a launch title for Quest 2 (as well as releasing on Quest 1 and later [Steam](https://store.steampowered.com/app/1733890/Warhammer_40000_Battle_Sister/)). Battle Sister used a novel render engine, combining an edit time baking solution and runtime batcher that achieved extremely low drawcall counts for environments as well as optimised fillrate and minimal overdraw.
 
 This blog post describes the background for BLAST’s development as well as a high level technical overview of how it worked. Please note this is written from memory and there may be some minor inaccuracies.
@@ -111,12 +113,6 @@ This automatic stripping was one of the key requirements to ensure main thread i
 <figure>
 <img src="/Images/BLAST/Image6-Culling.jpg" />
 <figcaption>BLAST's Culling</figcaption>
-</figure>
-
-
-<figure>
-<img src="/Images/BLAST/Image5-NoCulling.jpg" />
-<figcaption>No Culling</figcaption>
 </figure>
 
 <figure>
