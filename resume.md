@@ -28,3 +28,5 @@ Physics: Chaos, PhysX, Box2D, SAT, CCD
 Graphics: GL ES, DX, Vulkan, Batching, HLODs, Occlusion, Shaders, Optimisation, Lightbaking  
 Networking: P2P Realtime, Latency Mitigations, Async MP, Client/Server  
 Tooling: Editor Widgets, Scripted Actions, Simplygon, Geometry Tools, Internal Servers  
+
+Experience history can be found at [LinkedIn](https://www.linkedin.com/in/barnabysmith/)
