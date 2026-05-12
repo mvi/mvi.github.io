@@ -33,6 +33,8 @@ plugins:
 titles_from_headings:
   strip_title: true
   collections: true
+
+google_analytics: G-2JMTR28DR9
   
 permalink: /:categories/:year/:month/:day/:title
 
